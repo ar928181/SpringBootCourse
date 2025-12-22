@@ -5,202 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f02fc240-78f7-4a67-aac3-fa7dd681b6f7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Microservices-V2-presentation.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 10 Appendix- Introduction to Spring Boot Framework/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 10 Appendix- Introduction to Spring Boot Framework/.idea/Section 10 Appendix- Introduction to Spring Boot Framework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 10 Appendix- Introduction to Spring Boot Framework/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 10 Appendix- Introduction to Spring Boot Framework/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 10 Appendix- Introduction to Spring Boot Framework/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 10 Appendix- Introduction to Spring Boot Framework/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 10 Appendix- Introduction to Spring Boot Framework/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 10 Appendix- Introduction to Spring Boot Framework/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 10 Appendix- Introduction to Spring Boot Framework/learnSpringFramework/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 10 Appendix- Introduction to Spring Boot Framework/learnSpringFramework/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 10 Appendix- Introduction to Spring Boot Framework/learnSpringFramework/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 10 Appendix- Introduction to Spring Boot Framework/learnSpringFramework/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 10 Appendix- Introduction to Spring Boot Framework/learnSpringFramework/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 10 Appendix- Introduction to Spring Boot Framework/learnSpringFramework/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 10 Appendix- Introduction to Spring Boot Framework/learnSpringFramework/src/main/java/com/springboot/learnSpringFramework/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 10 Appendix- Introduction to Spring Boot Framework/learnSpringFramework/src/main/java/com/springboot/learnSpringFramework/CourseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 10 Appendix- Introduction to Spring Boot Framework/learnSpringFramework/src/main/java/com/springboot/learnSpringFramework/CurrencyConfigurationController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 10 Appendix- Introduction to Spring Boot Framework/learnSpringFramework/src/main/java/com/springboot/learnSpringFramework/CurrencyServiceConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 10 Appendix- Introduction to Spring Boot Framework/learnSpringFramework/src/main/java/com/springboot/learnSpringFramework/LearnSpringFrameworkApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 10 Appendix- Introduction to Spring Boot Framework/learnSpringFramework/src/main/resources/application-dev.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 10 Appendix- Introduction to Spring Boot Framework/learnSpringFramework/src/main/resources/application-prod.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 10 Appendix- Introduction to Spring Boot Framework/learnSpringFramework/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 10 Appendix- Introduction to Spring Boot Framework/learnSpringFramework/src/test/java/com/springboot/learnSpringFramework/LearnSpringFrameworkApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 15 Appendix- Introduction to JPA/learn-jpa-and-hibernate/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 15 Appendix- Introduction to JPA/learn-jpa-and-hibernate/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 15 Appendix- Introduction to JPA/learn-jpa-and-hibernate/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 15 Appendix- Introduction to JPA/learn-jpa-and-hibernate/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 15 Appendix- Introduction to JPA/learn-jpa-and-hibernate/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 15 Appendix- Introduction to JPA/learn-jpa-and-hibernate/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 15 Appendix- Introduction to JPA/learn-jpa-and-hibernate/src/main/java/com/example/springboot/learn_jpa_and_hibernate/H2ConsoleConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 15 Appendix- Introduction to JPA/learn-jpa-and-hibernate/src/main/java/com/example/springboot/learn_jpa_and_hibernate/LearnJpaAndHibernateApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 15 Appendix- Introduction to JPA/learn-jpa-and-hibernate/src/main/java/com/example/springboot/learn_jpa_and_hibernate/course/jdbc/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 15 Appendix- Introduction to JPA/learn-jpa-and-hibernate/src/main/java/com/example/springboot/learn_jpa_and_hibernate/course/jdbc/CourseJPARepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 15 Appendix- Introduction to JPA/learn-jpa-and-hibernate/src/main/java/com/example/springboot/learn_jpa_and_hibernate/course/jdbc/CourseJdbcCommandLinerRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 15 Appendix- Introduction to JPA/learn-jpa-and-hibernate/src/main/java/com/example/springboot/learn_jpa_and_hibernate/course/jdbc/CourseJdbcRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 15 Appendix- Introduction to JPA/learn-jpa-and-hibernate/src/main/java/com/example/springboot/learn_jpa_and_hibernate/course/jdbc/CourseSpringDataJPARepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 15 Appendix- Introduction to JPA/learn-jpa-and-hibernate/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 15 Appendix- Introduction to JPA/learn-jpa-and-hibernate/src/main/resources/schema.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 15 Appendix- Introduction to JPA/learn-jpa-and-hibernate/src/test/java/com/example/springboot/learn_jpa_and_hibernate/LearnJpaAndHibernateApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 3 Restful Web Services with Spring Boot - V3/building-rest-api-with-spring-boot-in28minutes-presentation.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 3 Restful Web Services with Spring Boot - V3/restful-web-services/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 3 Restful Web Services with Spring Boot - V3/restful-web-services/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 3 Restful Web Services with Spring Boot - V3/restful-web-services/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 3 Restful Web Services with Spring Boot - V3/restful-web-services/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 3 Restful Web Services with Spring Boot - V3/restful-web-services/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 3 Restful Web Services with Spring Boot - V3/restful-web-services/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 3 Restful Web Services with Spring Boot - V3/restful-web-services/src/main/java/com/example/rest/webservices/restful_web_services/RestfulWebServicesApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 3 Restful Web Services with Spring Boot - V3/restful-web-services/src/main/java/com/example/rest/webservices/restful_web_services/exception/CustomizedResponseEntityExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 3 Restful Web Services with Spring Boot - V3/restful-web-services/src/main/java/com/example/rest/webservices/restful_web_services/exception/ErrorDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 3 Restful Web Services with Spring Boot - V3/restful-web-services/src/main/java/com/example/rest/webservices/restful_web_services/filtering/FilteringController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 3 Restful Web Services with Spring Boot - V3/restful-web-services/src/main/java/com/example/rest/webservices/restful_web_services/filtering/SomeBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 3 Restful Web Services with Spring Boot - V3/restful-web-services/src/main/java/com/example/rest/webservices/restful_web_services/helloworld/HelloWorldBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 3 Restful Web Services with Spring Boot - V3/restful-web-services/src/main/java/com/example/rest/webservices/restful_web_services/helloworld/HelloWorldController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 3 Restful Web Services with Spring Boot - V3/restful-web-services/src/main/java/com/example/rest/webservices/restful_web_services/security/SpringSecurityConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 3 Restful Web Services with Spring Boot - V3/restful-web-services/src/main/java/com/example/rest/webservices/restful_web_services/user/JPA/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 3 Restful Web Services with Spring Boot - V3/restful-web-services/src/main/java/com/example/rest/webservices/restful_web_services/user/JPA/UserJPAResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 3 Restful Web Services with Spring Boot - V3/restful-web-services/src/main/java/com/example/rest/webservices/restful_web_services/user/UserDaoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 3 Restful Web Services with Spring Boot - V3/restful-web-services/src/main/java/com/example/rest/webservices/restful_web_services/user/UserNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 3 Restful Web Services with Spring Boot - V3/restful-web-services/src/main/java/com/example/rest/webservices/restful_web_services/user/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 3 Restful Web Services with Spring Boot - V3/restful-web-services/src/main/java/com/example/rest/webservices/restful_web_services/user/UserResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 3 Restful Web Services with Spring Boot - V3/restful-web-services/src/main/java/com/example/rest/webservices/restful_web_services/user/post/Post.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 3 Restful Web Services with Spring Boot - V3/restful-web-services/src/main/java/com/example/rest/webservices/restful_web_services/user/post/PostRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 3 Restful Web Services with Spring Boot - V3/restful-web-services/src/main/java/com/example/rest/webservices/restful_web_services/versioning/Name.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 3 Restful Web Services with Spring Boot - V3/restful-web-services/src/main/java/com/example/rest/webservices/restful_web_services/versioning/PersonV1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 3 Restful Web Services with Spring Boot - V3/restful-web-services/src/main/java/com/example/rest/webservices/restful_web_services/versioning/PersonV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 3 Restful Web Services with Spring Boot - V3/restful-web-services/src/main/java/com/example/rest/webservices/restful_web_services/versioning/person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 3 Restful Web Services with Spring Boot - V3/restful-web-services/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 3 Restful Web Services with Spring Boot - V3/restful-web-services/src/main/resources/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 3 Restful Web Services with Spring Boot - V3/restful-web-services/src/test/java/com/example/rest/webservices/restful_web_services/RestfulWebServicesApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 6 Dokcer with Microservices using Spring Boot and Spring Cloud/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section 3 Restful Web Services with Spring Boot - V3/.idea/Section 3 Restful Web Services with Spring Boot - V3.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Section 6 Dokcer with Microservices using Spring Boot and Spring Cloud/.idea/Section 6 Dokcer with Microservices using Spring Boot and Spring Cloud.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 6 Dokcer with Microservices using Spring Boot and Spring Cloud/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 6 Dokcer with Microservices using Spring Boot and Spring Cloud/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 6 Dokcer with Microservices using Spring Boot and Spring Cloud/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 6 Dokcer with Microservices using Spring Boot and Spring Cloud/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 6 Dokcer with Microservices using Spring Boot and Spring Cloud/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 6 Dokcer with Microservices using Spring Boot and Spring Cloud/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 6 Dokcer with Microservices using Spring Boot and Spring Cloud/New folder/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 6 Dokcer with Microservices using Spring Boot and Spring Cloud/New folder/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 6 Dokcer with Microservices using Spring Boot and Spring Cloud/New folder/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 6 Dokcer with Microservices using Spring Boot and Spring Cloud/New folder/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/HelloWorldController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 6 Dokcer with Microservices using Spring Boot and Spring Cloud/New folder/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/RestfulWebServicesApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 6 Dokcer with Microservices using Spring Boot and Spring Cloud/New folder/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 6 Dokcer with Microservices using Spring Boot and Spring Cloud/New folder/src/test/java/com/in28minutes/rest/webservices/restfulwebservices/RestfulWebServicesApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 6 Dokcer with Microservices using Spring Boot and Spring Cloud/New folder/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 6 Dokcer with Microservices using Spring Boot and Spring Cloud/New folder/target/classes/com/in28minutes/rest/webservices/restfulwebservices/HelloWorldController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 6 Dokcer with Microservices using Spring Boot and Spring Cloud/New folder/target/classes/com/in28minutes/rest/webservices/restfulwebservices/RestfulWebServicesApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 6 Dokcer with Microservices using Spring Boot and Spring Cloud/New folder/target/hello-world-java-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 6 Dokcer with Microservices using Spring Boot and Spring Cloud/New folder/target/hello-world-java-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 6 Dokcer with Microservices using Spring Boot and Spring Cloud/New folder/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 6 Dokcer with Microservices using Spring Boot and Spring Cloud/New folder/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 6 Dokcer with Microservices using Spring Boot and Spring Cloud/New folder/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 6 Dokcer with Microservices using Spring Boot and Spring Cloud/New folder/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 6 Dokcer with Microservices using Spring Boot and Spring Cloud/New folder/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 6 Dokcer with Microservices using Spring Boot and Spring Cloud/New folder/target/surefire-reports/2025-12-17T15-14-29_528.dumpstream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 6 Dokcer with Microservices using Spring Boot and Spring Cloud/New folder/target/surefire-reports/2025-12-17T15-17-42_826.dumpstream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 6 Dokcer with Microservices using Spring Boot and Spring Cloud/New folder/target/surefire-reports/TEST-com.in28minutes.rest.webservices.restfulwebservices.RestfulWebServicesApplicationTests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 6 Dokcer with Microservices using Spring Boot and Spring Cloud/New folder/target/surefire-reports/com.in28minutes.rest.webservices.restfulwebservices.RestfulWebServicesApplicationTests.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 6 Dokcer with Microservices using Spring Boot and Spring Cloud/New folder/target/test-classes/com/in28minutes/rest/webservices/restfulwebservices/RestfulWebServicesApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 9 Appendix- Introduction to Spring Framework/learnSpringFramework/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 9 Appendix- Introduction to Spring Framework/learnSpringFramework/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 9 Appendix- Introduction to Spring Framework/learnSpringFramework/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 9 Appendix- Introduction to Spring Framework/learnSpringFramework/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 9 Appendix- Introduction to Spring Framework/learnSpringFramework/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 9 Appendix- Introduction to Spring Framework/learnSpringFramework/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 9 Appendix- Introduction to Spring Framework/learnSpringFramework/src/main/java/com/spring/learnSpringFramework/LearnSpringFrameworkApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 9 Appendix- Introduction to Spring Framework/learnSpringFramework/src/main/java/com/spring/learnSpringFramework/enterprise/example/MyWebController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 9 Appendix- Introduction to Spring Framework/learnSpringFramework/src/main/java/com/spring/learnSpringFramework/enterprise/example/data/DataService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 9 Appendix- Introduction to Spring Framework/learnSpringFramework/src/main/java/com/spring/learnSpringFramework/enterprise/example/web/BusinessService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 9 Appendix- Introduction to Spring Framework/learnSpringFramework/src/main/java/com/spring/learnSpringFramework/game/GameConsole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 9 Appendix- Introduction to Spring Framework/learnSpringFramework/src/main/java/com/spring/learnSpringFramework/game/GameRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 9 Appendix- Introduction to Spring Framework/learnSpringFramework/src/main/java/com/spring/learnSpringFramework/game/MarioGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 9 Appendix- Introduction to Spring Framework/learnSpringFramework/src/main/java/com/spring/learnSpringFramework/game/PackmanGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 9 Appendix- Introduction to Spring Framework/learnSpringFramework/src/main/java/com/spring/learnSpringFramework/game/SuperContraGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 9 Appendix- Introduction to Spring Framework/learnSpringFramework/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section 9 Appendix- Introduction to Spring Framework/learnSpringFramework/src/test/java/com/spring/learnSpringFramework/LearnSpringFrameworkApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Section5-MicroservicesWithSpringCloud.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Microservices-V2-presentation (1).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-gateway/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-gateway/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-gateway/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-gateway/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-gateway/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-gateway/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/com/example/microservices/api_gateway/ApiGatewayApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/com/example/microservices/api_gateway/GatewayConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/com/example/microservices/api_gateway/LoggingFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-gateway/src/test/java/com/example/microservices/api_gateway/ApiGatewayApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency-conversion-service/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency-conversion-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency-conversion-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency-conversion-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency-conversion-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency-conversion-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/example/microservices/currency_conversion_service/CurrencyConversionServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/example/microservices/currency_conversion_service/currency_conversion/CurrecnyExchangeProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/example/microservices/currency_conversion_service/currency_conversion/CurrencyConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/example/microservices/currency_conversion_service/currency_conversion/CurrencyConversionController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency-conversion-service/src/main/java/temp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency-conversion-service/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency-conversion-service/src/test/java/com/example/microservices/currency_conversion_service/CurrencyConversionServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency-exchange-service/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency-exchange-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency-exchange-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency-exchange-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency-exchange-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency-exchange-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency-exchange-service/src/main/java/com/example/microservices/currency_exchange_service/CircuitBreakerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency-exchange-service/src/main/java/com/example/microservices/currency_exchange_service/CurrencyExchangeServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency-exchange-service/src/main/java/com/example/microservices/currency_exchange_service/currency/CurrencyExchange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency-exchange-service/src/main/java/com/example/microservices/currency_exchange_service/currency/CurrencyExchangeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency-exchange-service/src/main/java/com/example/microservices/currency_exchange_service/currency/CurrencyExchangeRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency-exchange-service/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency-exchange-service/src/main/resources/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency-exchange-service/src/test/java/com/example/microservices/currency_exchange_service/CurrencyExchangeServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/git-localconfig-repo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/limits-service/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/limits-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/limits-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/limits-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/limits-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/limits-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/limits-service/src/main/java/com/example/microservices/limits_service/LimitsServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/limits-service/src/main/java/com/example/microservices/limits_service/bean/Limits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/limits-service/src/main/java/com/example/microservices/limits_service/configuration/Configuration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/limits-service/src/main/java/com/example/microservices/limits_service/controller/LimitsController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/limits-service/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/limits-service/src/test/java/com/example/microservices/limits_service/LimitsServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/namig-server/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/namig-server/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/namig-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/namig-server/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/namig-server/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/namig-server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/namig-server/src/main/java/com/example/microservices/namig_server/NamigServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/namig-server/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/namig-server/src/test/java/com/example/microservices/namig_server/NamigServerApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-config-server/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-config-server/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-config-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-config-server/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-config-server/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-config-server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-config-server/src/main/java/com/example/microservices/spring_cloud_config_server/SpringCloudConfigServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-config-server/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-config-server/src/test/java/com/example/microservices/spring_cloud_config_server/SpringCloudConfigServerApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Section 3 Restful Web Services with Spring Boot - V3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Section 3 Restful Web Services with Spring Boot - V3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api-gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-gateway/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/api-gateway/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/currency-conversion-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/currency-conversion-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/currency-conversion-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/currency-conversion-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/currency-exchange-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/currency-exchange-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/currency-exchange-service/src/main/java/com/example/microservices/currency_exchange_service/currency/CurrencyExchangeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/currency-exchange-service/src/main/java/com/example/microservices/currency_exchange_service/currency/CurrencyExchangeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/currency-exchange-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/currency-exchange-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-localconfig-repo" beforeDir="false" afterPath="$PROJECT_DIR$/git-localconfig-repo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/git-localconfig-repo/limits-service.properties" beforeDir="false" afterPath="$PROJECT_DIR$/git-localconfig-repo/limits-service.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -226,26 +42,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ApiGatewayApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CurrencyConversionServiceApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LimitsServiceApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NamigServerApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SpringCloudConfigServerApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Maven.api-gateway [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.api-gateway [install].executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/MyStuff/SpringBootCourse/Section5-MicroservicesWithSpringCloud&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ApiGatewayApplication.executor": "Run",
+    "Application.CurrencyConversionServiceApplication.executor": "Run",
+    "Application.CurrencyExchangeServiceApplication (2).executor": "Run",
+    "Application.CurrencyExchangeServiceApplication.executor": "Run",
+    "Application.CurrencyExchangeServiceApplication8000.executor": "Run",
+    "Application.CurrencyExchangeServiceApplication8001.executor": "Run",
+    "Application.LimitsServiceApplication.executor": "Run",
+    "Application.NamigServerApplication.executor": "Run",
+    "Application.SpringCloudConfigServerApplication.executor": "Run",
+    "Maven.api-gateway [clean].executor": "Run",
+    "Maven.api-gateway [install].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "F:/MyStuff/SpringBootCourse/Section5-MicroservicesWithSpringCloud",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
-  <component name="RunManager" selected="Application.NamigServerApplication">
+}]]></component>
+  <component name="RunManager" selected="Application.CurrencyConversionServiceApplication">
     <configuration name="ApiGatewayApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.microservices.api_gateway.ApiGatewayApplication" />
       <module name="api-gateway" />
@@ -275,6 +96,56 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.example.microservices.currency_conversion_service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" IS_EXECUTABLE="false" />
+        </ENTRIES>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CurrencyExchangeServiceApplication8000" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.microservices.currency_exchange_service.CurrencyExchangeServiceApplication" />
+      <module name="currency-exchange-service" />
+      <option name="PROGRAM_PARAMETERS" value="8000" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8000" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.microservices.currency_exchange_service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" IS_EXECUTABLE="false" />
+        </ENTRIES>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CurrencyExchangeServiceApplication8001" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.microservices.currency_exchange_service.CurrencyExchangeServiceApplication" />
+      <module name="currency-exchange-service" />
+      <option name="PROGRAM_PARAMETERS" value="8001" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.microservices.currency_exchange_service.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -338,12 +209,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.ApiGatewayApplication" />
+      <item itemvalue="Application.CurrencyConversionServiceApplication" />
+      <item itemvalue="Application.CurrencyExchangeServiceApplication8000" />
+      <item itemvalue="Application.CurrencyExchangeServiceApplication8001" />
+      <item itemvalue="Application.NamigServerApplication" />
+      <item itemvalue="Application.SpringCloudConfigServerApplication" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NamigServerApplication" />
-        <item itemvalue="Application.ApiGatewayApplication" />
         <item itemvalue="Application.CurrencyConversionServiceApplication" />
-        <item itemvalue="Application.SpringCloudConfigServerApplication" />
+        <item itemvalue="Application.CurrencyExchangeServiceApplication8000" />
+        <item itemvalue="Application.CurrencyExchangeServiceApplication8001" />
+        <item itemvalue="Application.ApiGatewayApplication" />
+        <item itemvalue="Application.NamigServerApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -363,5 +243,10 @@
       <updated>1765462894885</updated>
     </task>
     <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Section5_MicroservicesWithSpringCloud$CurrencyExchangeServiceApplication8001.ic" NAME="CurrencyExchangeServiceApplication8001 Coverage Results" MODIFIED="1766401157841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.example.microservices.currency_exchange_service.*</FILTER>
+    </SUITE>
   </component>
 </project>
