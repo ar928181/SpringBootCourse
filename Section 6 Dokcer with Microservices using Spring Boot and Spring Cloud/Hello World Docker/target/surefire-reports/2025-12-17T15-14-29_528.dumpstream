@@ -1,0 +1,5 @@
+# Created at 2025-12-17T15:14:30.035
+Boot Manifest-JAR contains absolute paths in classpath 'F:\MyStuff\SpringBootCourse\Section 6 Dokcer with Microservices using Spring Boot and Spring Cloud\New folder\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
